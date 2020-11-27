@@ -66,7 +66,7 @@ Front-end
 
 **Contato:**
 
-[Instagram]](https://www.instagram.com/k4l1b3/)
+[Instagram](https://www.instagram.com/k4l1b3/)
 
 [Linkeidn](https://www.linkedin.com/in/luiz-henrique-3903a618a/)
 
