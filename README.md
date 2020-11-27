@@ -59,7 +59,7 @@ Front-end
   
 # Autor
 
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/45051690?s=400&u=14f759fe2e853f462a6a59a8feabf334dec81aee&v=4" width="100px" alt=""/>
+<img style="border-radius: 70%;" src="https://avatars3.githubusercontent.com/u/45051690?s=400&u=14f759fe2e853f462a6a59a8feabf334dec81aee&v=4" width="100px" alt=""/>
 
 **Nome:** Luiz Henrique
 **Contato:**
