@@ -1,6 +1,7 @@
 # KaFlux
-
 Status do projeto: **Ainda não terminado**
+
+# Sobre:
 
 **Em resumo: Software para gestão de estoque e fluxo de caixa para sua pequena empresa.**
 
@@ -22,5 +23,14 @@ Você irá precisar de um login administrativo para isso o desenvolvedor terá q
 
 Download do banco de dados: [link]()
 
+# Tecnologias utilizada
 
+As seguintes ferramentas seram usadas na construção do projeto:
+
+* Java
+* Java PrimeFaces
+* JPA Hibernate
+* [My SQL](https://www.mysql.com/)
+
+# Autor
 
