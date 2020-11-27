@@ -23,14 +23,31 @@ Você irá precisar de um login administrativo para isso o desenvolvedor terá q
 
 Download do banco de dados: [link]()
 
+
+* Como instalar/Utilizar
+
+
+
+# Features 
+
+- Registro de pedidos
+- Gerenciamento de Estoque
+- Fluxo de caixa
+- Margem de vendas mensais e semanais
+
+
+
+
 # Tecnologias utilizada
 
 As seguintes ferramentas seram usadas na construção do projeto:
 
-* Java
-* Java PrimeFaces
-* JPA Hibernate
+* [Java](https://www.java.com/en/)
+* [Java PrimeFaces](https://www.primefaces.org/)
+* [JPA Hibernate](https://hibernate.org/orm/)
 * [My SQL](https://www.mysql.com/)
 
 # Autor
+
+
 
