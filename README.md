@@ -30,6 +30,7 @@ Download do banco de dados: [link]()
 
 # Features 
 
+- Registro de clientes
 - Registro de pedidos
 - Gerenciamento de Estoque
 - Fluxo de caixa
@@ -42,12 +43,21 @@ Download do banco de dados: [link]()
 
 As seguintes ferramentas seram usadas na construção do projeto:
 
-* [Java](https://www.java.com/en/)
-* [Java PrimeFaces](https://www.primefaces.org/)
-* [JPA Hibernate](https://hibernate.org/orm/)
-* [My SQL](https://www.mysql.com/)
+Back-End
+  * [Java](https://www.java.com/en/)
+  * [JPA Hibernate](https://hibernate.org/orm/)
+  * [My SQL](https://www.mysql.com/)
 
+Front-end
+
+  * [Java PrimeFaces](https://www.primefaces.org/)
+  * HTML
+  * CSS
+  
+  
+  
 # Autor
+
 
 
 
