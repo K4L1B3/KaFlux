@@ -65,11 +65,12 @@ Front-end
 
 
 **Contato:**
-[![Instagram]](https://www.instagram.com/k4l1b3/)
 
-[!][Linkeidn](https://www.linkedin.com/in/luiz-henrique-3903a618a/)
+[Instagram]](https://www.instagram.com/k4l1b3/)
 
-[![Gmail](luizhlimagomes28@gmail.com)
+[Linkeidn](https://www.linkedin.com/in/luiz-henrique-3903a618a/)
+
+Gmail: luizhlimagomes28@gmail.com
 
 
 
